@@ -45,6 +45,9 @@ System maintenance and evolution − Easy to change and update the implementatio
 
 Independent − Independency and flexible connectivity of components. Independent development of components by different group in parallel. Productivity for the software development and future software development.
 
+[The answers to the three questions above from](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm)
+<br>
+
 ## What is Props and How to Use it in React
 
 4. What is “props” short for?
