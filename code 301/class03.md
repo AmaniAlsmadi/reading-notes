@@ -54,10 +54,11 @@ const objectThree = {...objectOne, ...objectTwo}<br>
 <br>
 
 1. **In the video, what is the first step that the developer does to pass functions between components?**
-- 
+- create the action in the parent component
 2. **In your own words, what does the increment function do?**
--
+- pass through the object then if the input equal name, if true increment one => counted how many time we click on button
 3. **How can you pass a method from a parent component into a child component?**
--
+- The method is passed as a prop to a child component.
 4. **How does the child component invoke a method that was passed to it from a parent component?**
--
+- The child component then invokes the prop.<br>
+- The parent function is then called, usually changing something.
