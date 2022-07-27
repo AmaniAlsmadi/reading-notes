@@ -17,14 +17,17 @@
 ## Things I want to know more about
 <br>
 
+## Table of Contents for this course
+<br>
+
 | class # | Topic | README |
 |-------------|--------------------------------|-----------|
 |01| Introduction to React and Components | [read01](./code%20301/class01.md) |
 |02| State and Props | [read02](./code%20301/class02.md) |
 |03| Passing Functions as Props | [read03](./code%20301/class03.md) |
+|04| React and Forms | [read04](./code%20301/class04.md) |
 <br>
 
-## Table of Contents for this course
 
 ## Course Schedule
 
