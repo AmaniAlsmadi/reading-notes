@@ -26,6 +26,7 @@
 |02| State and Props | [read02](./code%20301/class02.md) |
 |03| Passing Functions as Props | [read03](./code%20301/class03.md) |
 |04| React and Forms | [read04](./code%20301/class04.md) |
+|05| Putting it all together | [read05](./code%20301/class05.md) |
 <br>
 
 
