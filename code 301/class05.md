@@ -27,9 +27,9 @@ ______________________________________
 - Functions that operate on other functions, either by taking them as arguments or by returning them
 
 2. **Explore the greaterThan function as defined in the reading. In your own words, what is line 2 of this function doing?**
-- 
-
+- calling an arrow function to compare between 2 values and return a boolean value
 
 3. **Explain how either map or reduce operates, with regards to higher-order functions.**
-- transforms an array by applying a function to all of its elements and building a new array from the returned values
-- The higher-order operation that represents this pattern
+-  The map function has a single argument which is a closure (a function) that it calls as it loops over the collection. This closure takes the element from the collection as an argument and returns a result. The map function returns these results in an array.
+
+- Use reduce to combine all items in a collection to create a single new value.
