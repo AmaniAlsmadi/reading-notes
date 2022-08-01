@@ -27,7 +27,8 @@
 |03| Passing Functions as Props | [read03](./code%20301/class03.md) |
 |04| React and Forms | [read04](./code%20301/class04.md) |
 |05| Putting it all together | [read05](./code%20301/class05.md) |
-|06| Putting it all together | [read06](./code%20301/class06.md) |
+|06| NODE.JS | [read06](./code%20301/class06.md) |
+|07| REST| [read07](./code%20301/class07.md) |
 <br>
 
 
