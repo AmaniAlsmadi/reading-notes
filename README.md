@@ -29,6 +29,8 @@
 |05| Putting it all together | [read05](./code%20301/class05.md) |
 |06| NODE.JS | [read06](./code%20301/class06.md) |
 |07| REST| [read07](./code%20301/class07.md) |
+|08| APIs| [read08](./code%20301/class08.md) |
+|09| Functional Programming| [read09](./code%20301/class09.md) |
 <br>
 
 
