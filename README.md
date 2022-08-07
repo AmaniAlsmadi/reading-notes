@@ -32,6 +32,7 @@
 |08| APIs| [read08](./code%20301/class08.md) |
 |09| Functional Programming| [read09](./code%20301/class09.md) |
 |10| In memory storage | [read10](./code%20301/class10.md) |
+|11| Mongo and Mongoose | [read11](./code%20301/class11.md) |
 <br>
 
 
