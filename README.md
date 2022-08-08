@@ -33,6 +33,7 @@
 |09| Functional Programming| [read09](./code%20301/class09.md) |
 |10| In memory storage | [read10](./code%20301/class10.md) |
 |11| Mongo and Mongoose | [read11](./code%20301/class11.md) |
+|12| CRUD | [read12](./code%20301/class12.md) |
 <br>
 
 
