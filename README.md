@@ -34,6 +34,7 @@
 |10| In memory storage | [read10](./code%20301/class10.md) |
 |11| Mongo and Mongoose | [read11](./code%20301/class11.md) |
 |12| CRUD | [read12](./code%20301/class12.md) |
+|13| More CRUD | [read13](./code%20301/class13.md) |
 <br>
 
 
