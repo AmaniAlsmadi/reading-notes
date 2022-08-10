@@ -35,6 +35,7 @@
 |11| Mongo and Mongoose | [read11](./code%20301/class11.md) |
 |12| CRUD | [read12](./code%20301/class12.md) |
 |13| More CRUD | [read13](./code%20301/class13.md) |
+|14| Diversity & Inclusion in the Tech Industry | [read14](./code%20301/class14.md) |
 <br>
 
 
