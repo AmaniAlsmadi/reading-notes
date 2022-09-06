@@ -8,14 +8,8 @@
 ## Code 201 - Foundations of Software Development 
 <br>
 
-## Code 301 - Intermediate Software Development
+# Code 301 - Intermediate Software Development
  <br>
-
-## Code 401 - Advanced Software Development
- <br>
-
-## Things I want to know more about
-<br>
 
 ## Table of Contents for this course
 <br>
@@ -37,6 +31,22 @@
 |13| More CRUD | [read13](./code%20301/class13.md) |
 |14| Diversity & Inclusion in the Tech Industry | [read14](./code%20301/class14.md) |
 <br>
+
+# Code 401 - Advanced Software Development
+ <br>
+
+ ## Table of Contents for this course
+<br>
+
+| class # | Topic | README |
+|-------------|--------------------------------|-----------|
+|01| Introduction | [read01](./code%20401/class01.md) |
+<br>
+
+## Things I want to know more about
+<br>
+
+
 
 
 ## Course Schedule
