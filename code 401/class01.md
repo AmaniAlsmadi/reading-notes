@@ -41,7 +41,7 @@
 
 <br>
 
-4. **WRRC :** is how information flows through a web app.
+4. **WRRC :** is how information flows through a web app. 
 
 <br>
 
