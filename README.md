@@ -41,6 +41,8 @@
 | class # | Topic | README |
 |-------------|--------------------------------|-----------|
 |01| Introduction | [read01](./code%20401/class01.md) |
+|02| |   |
+|03| SQL database |[read03](./code%20401/class03.md)|
 <br>
 
 ## Things I want to know more about
