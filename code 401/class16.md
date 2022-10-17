@@ -2,22 +2,21 @@
 
 1. How can we ensure that an effect hook runs only once?
 
-   pass an empty array as an argument to the useEffect hook
-
-   ```javascript
-   useEffect(() => {
-     callBackFunction();
-   }, []);
-   ```
+ - can pass an empty array as the second argument to the useEffect hook to tackle this use case.
+ ```
+  useEffect(() => { // Side Effect }, []);
+  ```
+   In this case, the side effect runs only once after the initial render of the component
+   
 
 2. Can useState() update more than one state variable at the same time?
 
-   No, actually,useState replaces the whole object instead of updating and it will re-render the component every time you call it.
+  - we won't be updating two states every time and if we do that, most probably we want to mix those states into one.
 
 
 3. Is useState() synchronous?
 
-   No,  useState is an asynchronous hook
+   -  useState is an asynchronous hook
 
 ## Vocabulary Terms
 
